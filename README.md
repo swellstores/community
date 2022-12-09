@@ -21,3 +21,7 @@ Contributions are welcome. Add links using a pull request or start a discussion 
 
 - [Nuxt module (Nuxt 3 ready)](https://github.com/markus-gx/nuxt-swell)
 - [Gatsby plugin](https://github.com/maya-the-creator/gatsby-source-swell)
+
+## Tutorials and blogs
+
+- [Syncing Swell with Prismic](https://monogram.io/blog/syncing-swell-ecommerce-data-into-prismic) - How to sync product data from Swell into Prismic using webhooks and integration fields.

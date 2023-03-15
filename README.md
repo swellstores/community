@@ -25,6 +25,7 @@ Contributions are welcome. Add links using a pull request or start a discussion 
 
 ## Tutorials and blogs
 
-- [Build an e-commerce store using NextJS 13 and Swell](https://www.youtube.com/watch?v=6oJXAduFMyU)
+- [Building an ecommerce store using NextJS 13 and Swell](https://www.youtube.com/watch?v=6oJXAduFMyU)
+- [Series: How to develop a headless ecommerce website with NextJS 13](https://www.youtube.com/watch?v=rDDB1TLz31c&list=PLAG1pw-5mVDtk4ROu4doOlZnUf0EQSL7K)
 - [Syncing Swell with Prismic](https://monogram.io/blog/syncing-swell-ecommerce-data-into-prismic) - How to sync product data from Swell into Prismic using webhooks and integration fields.
 

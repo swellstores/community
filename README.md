@@ -1,4 +1,4 @@
-[Swell](https://www.swell.is/) is an API-first ecommerce platform with a customizable database and extreme flexibility.
+[Swell](https://www.swell.is/) is an ecommerce platform with subscriptions and B2B pricing built in. Run your store on a Swell theme, or [go headless](https://www.swell.is/headless-commerce) with its APIs.
 
 # Awesome Swell
 
@@ -8,6 +8,8 @@ Contributions are welcome. Add links using a pull request or start a discussion 
 
 ## Resources
 
+- [How headless commerce works](https://www.swell.is/headless-commerce)
+- [Best headless commerce platforms compared](https://www.swell.is/content/best-headless-commerce-platforms)
 - [Backend API reference](https://developers.swell.is/backend-api)
 - [Frontend API reference (with Swell.js)](https://developers.swell.is/frontend-api/frontend-libraries/swell-js)
 - [Frontend API reference (with GraphQL)](https://developers.swell.is/frontend-api/frontend-libraries/graphql)
